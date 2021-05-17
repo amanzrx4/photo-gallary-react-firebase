@@ -1,6 +1,6 @@
-live demo: https://stoic-brattain-90de72.netlify.app
+live demo: photo-gallery-react-firebase.netlify.app
 
-live demo: https://stoic-brattain-90de72.netlify.app
+live demo: photo-gallery-react-firebase.netlify.app
 
 # Getting Started with Create React App
 
